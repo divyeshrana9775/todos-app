@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/todos-app/static/css/main.52de0ab1.chunk.css",
+    "main.js": "/todos-app/static/js/main.5fd85a22.chunk.js",
+    "main.js.map": "/todos-app/static/js/main.5fd85a22.chunk.js.map",
+    "runtime-main.js": "/todos-app/static/js/runtime-main.5e615868.js",
+    "runtime-main.js.map": "/todos-app/static/js/runtime-main.5e615868.js.map",
+    "static/js/2.2a236271.chunk.js": "/todos-app/static/js/2.2a236271.chunk.js",
+    "static/js/2.2a236271.chunk.js.map": "/todos-app/static/js/2.2a236271.chunk.js.map",
+    "index.html": "/todos-app/index.html",
+    "precache-manifest.fe8454caf9bd89bf75bedf574f3f2fc7.js": "/todos-app/precache-manifest.fe8454caf9bd89bf75bedf574f3f2fc7.js",
+    "service-worker.js": "/todos-app/service-worker.js",
+    "static/css/main.52de0ab1.chunk.css.map": "/todos-app/static/css/main.52de0ab1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e615868.js",
+    "static/js/2.2a236271.chunk.js",
+    "static/css/main.52de0ab1.chunk.css",
+    "static/js/main.5fd85a22.chunk.js"
+  ]
+}
